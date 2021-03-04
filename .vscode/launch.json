@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StackTest2",
+            "request": "launch",
+            "mainClass": "StackTest2.StackTest2",
+            "projectName": "Algorithms-DS_21dbe517"
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "ie.tudublin.Main",

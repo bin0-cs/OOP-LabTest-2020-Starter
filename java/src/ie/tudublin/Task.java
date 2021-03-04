@@ -48,7 +48,7 @@ public class Task {
 
     @Override
     public String toString() {
-        return "Task [end=" + end + ", start=" + start + ", tasks=" + tasks + "]";
+        return "Task [tasks=" + tasks + ", start=" + start + ", end=" + end + "]";
     }
 
 }
